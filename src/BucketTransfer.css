@@ -1,0 +1,37 @@
+.bucket-transfer {
+  display: flex;
+  justify-content: center;
+  margin-left: 400px;
+}
+
+.bucket {
+  border: 1px solid #ccc;
+  flex-direction: column;
+  padding: 20px;
+  margin-left: 15px;
+}
+
+.bucket ul {
+  list-style: none;
+  padding: 0;
+}
+
+.bucket li {
+  margin-bottom: 10px;
+}
+
+.bucket button {
+  margin-right: 10px;
+}
+
+.addAll {
+  height: 50px;
+  margin-top: 150px;
+  margin-left: 10px;
+}
+
+.removeAll {
+  height: 50px;
+  margin-top: 150px;
+  margin-left: 10px;
+}
